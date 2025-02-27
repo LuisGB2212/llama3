@@ -1,6 +1,3 @@
-start:
-  command: python app.py
-
 torch
 fairscale
 fire
